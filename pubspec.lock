@@ -4,11 +4,12 @@ packages:
   arcore_flutter_plugin:
     dependency: "direct main"
     description:
-      name: arcore_flutter_plugin
-      sha256: "48307e6e630cd991e5b08efd74a0869504631c828d4dc650d144c267a8b6ebfd"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.1.0"
+      path: "."
+      ref: android-upgrading
+      resolved-ref: "3f3f6cb69dc51154bef6fa9db193de062935f953"
+      url: "https://github.com/giandifra/arcore_flutter_plugin.git"
+    source: git
+    version: "0.1.1"
   async:
     dependency: transitive
     description:
